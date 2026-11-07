@@ -1,6 +1,5 @@
 
-
-<h2>Open Frequency 📡</h2>
+ <h2>Open Frequency 📡</h2>
 
 <p align="left">
 <a href="mailto:memengthekid@gmail.com" target="_blank">
